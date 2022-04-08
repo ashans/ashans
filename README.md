@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashans
-- 💻 Senior Software Engineer @ Axiata Digital Labs
+- 💻 Senior Software Engineer @ MyBudget
 - 👀 I’m interested in Software development and Data Science
 - 🌱 I’m currently learning Data Science and Analytics | University of Moratuwa
 
