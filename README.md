@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashans
-- 💻 Senior Software Engineer @ MyBudget
+- 💻 ATL @ MyBudget
 - 👀 I’m interested in Software development
 
 <!---
